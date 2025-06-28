@@ -1,0 +1,14 @@
+{
+  "name": "smileone-rate-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to check SmileOne rates for Brazil/Philippines.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "puppeteer": "^21.0.0"
+  }
+}
